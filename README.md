@@ -12,7 +12,7 @@ This tutorial will show and explain how I added roles, departments, agents, and 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- osTciket
+- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
