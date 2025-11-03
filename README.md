@@ -16,7 +16,7 @@ This tutorial will show and explain how I added roles, departments, agents, and 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (PRO)
+- Windows 11</b> (25H2)
 
 <h2>List of Prerequisites</h2>
 
